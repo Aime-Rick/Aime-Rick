@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-I'm a curious and hands-on AI Engineer based in Benin, currently working as a **Data/AI Consultant at Afrique Conseil** and formerly at **ByteInnov IT**. My work spans across machine learning, data science, and full-stack AI solutions — especially where real-world problems meet intelligent automation.
+I'm a curious and hands-on AI Engineer, currently working as a **Data/AI Consultant at Afrique Conseil** and formerly at **ByteInnov IT**. My work spans across machine learning, data science, and full-stack AI solutions — especially where real-world problems meet intelligent automation.
 
 From **financial risk modeling** and **healthcare translation apps** to **e-commerce scraping** and **computer vision for fashion**, I love building systems that learn, predict, and help people.
 
